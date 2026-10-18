@@ -28,7 +28,9 @@ Missing even one dialysis session can cause fluid buildup, dangerous potassium l
 4. **Dashboard (Flask)**
    - Lists today's highest-risk patients, explains why each one was flagged, and generates a Granite message with one click
 
-Model:[https://drive.google.com/file/d/1IlnhGp3qkjx5YPOQ2PI9KKXK7nr2QoPB/view?usp=sharing](url)
+Model: 
+<img width="497" height="547" alt="image" src="https://github.com/user-attachments/assets/89bd07a8-3426-4be2-baef-e254a886edd8" />
+
 
 ## Why a patient gets flagged
 
