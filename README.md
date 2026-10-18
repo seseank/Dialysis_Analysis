@@ -3,7 +3,7 @@
 
 Missing even one dialysis session can cause fluid buildup, dangerous potassium levels and emergency room visits. Clinics usually find out about a missed session after it happens. This project predicts which patients are likely to miss their next session, using weather, transport and attendance history, so clinic staff can reach out first with a reminder or a ride.
 
-**Demo video:** PASTE_LINK_HERE
+**Demo video:** https://app.screencastify.com/watch/hJ43BZp228W19bKMqk2I
 **Team:** Sejal Ankam, Nana R. Ankomah, Sachin Kumar, Theekshna Machireddy, Sahana Sendhilkumar
 
 ## How it works
