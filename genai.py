@@ -30,14 +30,30 @@ def reasons(r):
     if r.age >= 75: out.append("age 75+")
     return out or ["general risk pattern"]
 
+from llama_cpp import Llama
+MODEL_PATH = "/home/ibm-user/granite-4.0-h-350m-base-be.f16.gguf"
+_granite = Llama(model_path=MODEL_PATH, n_ctx=2048, verbose=False)
+
 def build_prompt(r, why):
-    return (f"You are a dialysis clinic care coordinator. Write a short, warm text message in {r.language} "
-            f"to {r.name.split()[0]} reminding them of their dialysis session tomorrow at {r.clinic}. "
-            f"Their situation: {', '.join(why)}. Offer concrete help, like arranging a ride, if relevant. "
-            "Under 60 words. Do not mention risk scores or medical conditions.")
+    return (
+        "Below are short reminder texts a dialysis clinic sends to patients.\n\n"
+        "###\nPatient: Maria, Spanish speaker. Situation: rain expected, relies on the bus.\n"
+        "Message: Hola Maria, le recordamos su sesión de diálisis de mañana. Si la lluvia complica el autobús, "
+        "responda RIDE y le enviaremos transporte. ¡Le esperamos!\n\n"
+        "###\nPatient: James, English speaker. Situation: lives 14 miles from the clinic, age 75+.\n"
+        "Message: Hi James, just a reminder about your dialysis session tomorrow. It's a long trip, "
+        "so reply RIDE if you'd like us to arrange transport. See you soon!\n\n"
+         "###\nPatient: Ana, English speaker. Situation: extreme temperature, relies on the bus.\n"
+        "Message: Hi Ana, a reminder about your dialysis session tomorrow. With the extreme heat, waiting "
+        "at the bus stop can be risky, so reply RIDE and we'll send transport. Stay cool!\n\n"
+        f"###\nPatient: {r.name.split()[0]}, {r.language} speaker. Situation: {', '.join(why)}.\n"
+        "Message:"
+    )
 
 def llm(prompt):
-    return None  # TODO: replace with the lab's model call
+    out = _granite(prompt, max_tokens=90, temperature=0.3, stop=["###", "\n\n"])
+    return out["choices"][0]["text"].strip() or None
+
 
 def fallback(r, why):
     ride = " Reply RIDE and we'll arrange transport." if r.transport_type in ("bus", "medical_van") or r.storm else ""
