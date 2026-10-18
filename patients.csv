@@ -1,0 +1,301 @@
+patient_id,name,age,zip,lat,lon,clinic,distance_mi,zip_no_car_rate,transport,schedule,years_on_dialysis,diabetic,language
+1,Allison Hill,80,75070,33.2006,-96.598,FMC DIALYSIS SERVICES OF MCKINNEY,1.3,0.016,family,MWF,5.9,1,English
+2,Noah Rhodes,40,75244,32.9218,-96.8506,Parkland Peritoneal Dialysis Clinic,1.5,0.028,own_car,TTS,5.4,1,English
+3,Angie Henderson,75,75206,32.8385,-96.7606,WALNUT HILL DIALYSIS CENTER,3.4,0.06,family,MWF,7.1,1,English
+4,Daniel Wagner,51,75146,32.6008,-96.7761,DaVita Lancaster Dialysis,0.9,0.04,family,TTS,4.2,1,Spanish
+5,Cristian Santos,77,75035,33.1182,-96.753,DaVita West Plano Dialysis,4.5,0.026,own_car,TTS,0.6,1,Spanish
+6,Connie Lawrence,58,75035,33.1247,-96.7629,DaVita West Plano Dialysis,4.7,0.026,own_car,MWF,4.1,1,English
+7,Abigail Shaffer,78,75013,33.1199,-96.6806,DIALYSIS SERVICES OF ALLEN,0.3,0.027,own_car,MWF,0.5,1,Tamil
+8,Gina Moore,38,75229,32.8926,-96.8458,Parkland Peritoneal Dialysis Clinic,3.6,0.024,bus,TTS,2.6,0,Spanish
+9,Gabrielle Davis,53,75146,32.5912,-96.767,DaVita Lancaster Dialysis,0.4,0.04,own_car,MWF,2.1,1,Tamil
+10,Ryan Munoz,46,75204,32.7953,-96.7678,USRC PREMIER GASTON,0.2,0.073,medical_van,TTS,3.2,0,Spanish
+11,Monica Herrera,44,75006,32.9745,-96.8707,DaVita Carrollton Dialysis,1.2,0.031,bus,TTS,2.6,0,Spanish
+12,Jamie Arnold,48,75252,33.0046,-96.7877,FMC OF WEST PLANO,2.3,0.073,own_car,TTS,3.6,0,English
+13,Lisa Hensley,52,75225,32.8635,-96.7744,WALNUT HILL DIALYSIS CENTER,2.2,0.034,own_car,MWF,4.7,1,Spanish
+14,Michele Williams,37,75043,32.8678,-96.5955,TOWN GATE DIALYSIS CENTER,3.6,0.067,own_car,TTS,3.4,1,Tamil
+15,Dylan Miller,72,75039,32.8744,-96.9306,DaVita UT Southwestern-Dallas Dialysis,4.0,0.045,own_car,MWF,0.4,0,English
+16,Brian Ramirez,63,75039,32.8611,-96.9419,DaVita UT Southwestern-Dallas Dialysis,2.7,0.045,family,TTS,4.1,1,English
+17,Holly Wood,79,75061,32.8304,-96.9626,FRESENIUS MEDICAL CARE IRVING,0.3,0.071,own_car,TTS,3.8,0,English
+18,Derek Zuniga,72,75103,32.5047,-95.9117,USRC CANTON DIALYSIS,1.0,0.018,bus,MWF,5.4,1,Vietnamese
+19,Lisa Jackson,38,75078,33.245,-96.7855,DaVita Prosper Dialysis,1.1,0.014,own_car,MWF,4.7,1,English
+20,Carla Gray,34,75057,33.0527,-97.0117,Renal Center of Lewisville,0.9,0.027,own_car,MWF,7.6,1,Spanish
+21,Margaret Hawkins DDS,55,75149,32.766,-96.6004,METRO EAST DIALYSIS CENTER,0.6,0.039,own_car,TTS,1.5,1,Spanish
+22,Patty Perez,58,75034,33.1431,-96.826,DaVita West Plano Dialysis,6.9,0.055,medical_van,MWF,6.1,0,Vietnamese
+23,Ethan Adams,44,75058,33.4617,-96.7224,DaVita Sherman Dialysis Center,17.6,0.011,own_car,MWF,1.5,0,English
+24,Tommy Walter,76,75069,33.1961,-96.6078,FMC DIALYSIS SERVICES OF MCKINNEY,0.6,0.072,family,TTS,5.7,1,Spanish
+25,Matthew Foster,64,75081,32.9419,-96.6876,FRESENIUS MEDICAL CARE NORTH GARLAND,2.2,0.07,bus,TTS,1.2,1,Tamil
+26,Judy Baker,74,75216,32.7051,-96.7882,FRESENIUS MEDICAL CARE KIEST STATION,3.1,0.174,medical_van,TTS,5.1,0,English
+27,Justin Baker,36,75041,32.8847,-96.6568,TOWN GATE DIALYSIS CENTER,1.3,0.039,own_car,TTS,3.9,0,Spanish
+28,Stephanie Ross,78,75098,33.0078,-96.5401,DaVita Wylie Dialysis,0.3,0.008,own_car,TTS,8.8,0,English
+29,Zachary Hicks,42,75142,32.5501,-96.2969,FRESENIUS MEDICAL CARE KAUFMAN,1.0,0.048,bus,TTS,2.0,0,English
+30,Anthony Rodriguez,56,75010,33.0347,-96.8829,DaVita Renal Center of Carrollton,2.8,0.022,own_car,MWF,6.2,0,English
+31,Rebecca Henderson,56,75149,32.7892,-96.5931,METRO EAST DIALYSIS CENTER,2.2,0.039,family,TTS,1.0,0,English
+32,James Ferrell,79,75036,33.1458,-96.8177,DaVita West Plano Dialysis,6.8,0.003,own_car,TTS,3.4,1,English
+33,Tricia Valencia,46,75019,32.9622,-96.9875,Liberty Dialysis of South Lewisville,5.2,0.02,family,TTS,2.4,0,English
+34,Nathan Maldonado,44,75243,32.9022,-96.7386,USRC Royal Central Dialysis,1.1,0.111,medical_van,TTS,1.9,0,English
+35,Debra Davidson,50,75249,32.6422,-96.949,USRC Premier Duncanville,2.9,0.012,family,TTS,2.6,0,English
+36,Jeffrey Chavez,51,75219,32.8245,-96.8264,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,0.9,0.061,medical_van,MWF,4.7,0,English
+37,Sherri Baker,40,75061,32.8256,-96.97,FRESENIUS MEDICAL CARE IRVING,0.5,0.071,own_car,TTS,2.9,1,English
+38,Cassandra Gaines,40,75024,33.0668,-96.7812,DaVita West Plano Dialysis,0.8,0.052,bus,TTS,4.5,0,Spanish
+39,Elizabeth Fowler,43,75181,32.719,-96.5553,DaVita Balch Springs Dialysis,5.2,0.028,bus,MWF,5.3,1,Spanish
+40,Brittany Farmer,58,75080,32.9725,-96.7391,USRC Premier Richardson,0.7,0.049,family,TTS,8.5,1,English
+41,Paula Moreno,50,75028,33.0457,-97.0974,DaVita Renal Center of Flower Mound,1.8,0.014,family,MWF,4.1,0,Vietnamese
+42,Fred Smith,53,75092,33.6426,-96.6154,DaVita Sherman Dialysis Center,0.5,0.033,own_car,TTS,2.8,1,English
+43,Sherry Decker,73,75007,32.9966,-96.8813,DaVita Renal Center of Carrollton,0.6,0.05,family,TTS,2.5,1,Spanish
+44,Anthony Humphrey,44,75236,32.6923,-96.9136,FRESENIUS MEDICAL CARE OF COCKRELL HILL,3.6,0.141,medical_van,MWF,6.1,0,English
+45,Angelica Tucker,84,75052,32.6617,-97.0149,USRC Premier West Grand Prairie,1.2,0.033,own_car,MWF,2.0,0,Spanish
+46,Philip Cannon,75,75165,32.383,-96.858,FMC DIALYSIS SERVICES WAXAHACHIE,1.6,0.041,bus,TTS,1.3,1,Vietnamese
+47,John Pierce,40,75062,32.8566,-96.9799,DaVita UT Southwestern-Dallas Dialysis,0.9,0.049,own_car,MWF,5.6,1,Spanish
+48,Shane Henderson,48,75098,33.0063,-96.5335,DaVita Wylie Dialysis,0.5,0.008,own_car,TTS,8.5,0,English
+49,Joshua Blair,41,75115,32.6109,-96.8811,FMC OF PLEASANT RUN DIALYSIS,1.3,0.034,own_car,MWF,5.6,1,English
+50,Eric Carney,46,75039,32.8704,-96.9241,DaVita UT Southwestern-Dallas Dialysis,4.3,0.045,own_car,TTS,2.3,0,English
+51,Jessica Holmes,51,75252,32.9997,-96.7884,FMC OF WEST PLANO,2.7,0.073,medical_van,TTS,0.4,1,Spanish
+52,Danny Morgan,37,75215,32.7645,-96.7538,USRC PREMIER GASTON,3.0,0.203,own_car,TTS,1.3,0,Spanish
+53,Crystal Robinson,30,75243,32.8957,-96.7342,USRC Royal Central Dialysis,1.4,0.111,bus,MWF,0.7,0,Vietnamese
+54,Mark Perez,56,75233,32.7014,-96.8644,FMC SOUTH DALLAS COUNTY,2.1,0.075,medical_van,TTS,6.7,1,English
+55,Shannon Jones,72,75144,32.1228,-96.2191,FRESENIUS MEDICAL CARE CORSICANA,19.8,0.078,bus,MWF,1.2,1,English
+56,Michael Lewis,48,75238,32.8706,-96.7057,US Renal Care Premier Dialysis East Dallas Dialysis,2.3,0.063,family,MWF,2.7,1,English
+57,Timothy Duncan,81,75023,33.0522,-96.7342,DaVita Plano on Custer Dialysis,2.5,0.031,family,MWF,0.7,0,English
+58,Richard Aguirre,52,75040,32.9376,-96.6221,FRESENIUS MEDICAL CARE NORTH GARLAND,4.5,0.03,medical_van,TTS,2.3,0,English
+59,Brent Jordan,84,75010,33.0217,-96.8863,DaVita Renal Center of Carrollton,1.7,0.022,own_car,TTS,2.1,1,English
+60,John Daniel,44,75063,32.9344,-96.9613,FARMERS BRANCH DIALYSIS CENTER,5.2,0.048,family,MWF,5.1,1,Spanish
+61,Victoria Garcia,62,75071,33.1808,-96.6168,FMC DIALYSIS SERVICES OF MCKINNEY,1.5,0.028,family,MWF,5.2,0,English
+62,Gerald Hensley,75,75054,32.5874,-97.0367,USRC Premier West Grand Prairie,6.6,0.008,own_car,TTS,3.4,1,English
+63,Connor West,33,75224,32.713,-96.8287,FMC SOUTH DALLAS COUNTY,0.8,0.093,own_car,MWF,2.3,0,English
+64,Donald Wright,85,75068,33.1827,-96.9689,DaVita Renal Center of Frisco,9.1,0.027,own_car,MWF,1.7,0,Tamil
+65,Jessica Callahan,51,75056,33.1011,-96.8849,DaVita West Plano Dialysis,7.9,0.021,own_car,TTS,5.0,0,Spanish
+66,Amber Kidd,59,75115,32.612,-96.8505,FMC OF PLEASANT RUN DIALYSIS,1.3,0.034,medical_van,MWF,7.4,0,English
+67,Tracy House,67,75034,33.1464,-96.8315,DaVita West Plano Dialysis,7.3,0.055,own_car,TTS,2.0,0,English
+68,Carol Tucker,68,75218,32.8417,-96.7054,US Renal Care Premier Dialysis East Dallas Dialysis,0.7,0.03,medical_van,TTS,2.6,1,English
+69,James Brown,31,75020,33.7536,-96.5476,DaVita Denison Dialysis Center,0.8,0.048,bus,MWF,1.2,0,English
+70,William Baker,82,75287,32.9986,-96.823,FMC OF WEST PLANO,3.8,0.068,own_car,MWF,0.4,0,English
+71,Jordan Henderson,67,75215,32.7454,-96.7622,DaVita Lake Cliff Dialysis Center,3.4,0.203,bus,TTS,3.2,0,English
+72,Whitney Peters,89,75041,32.8681,-96.6278,TOWN GATE DIALYSIS CENTER,1.4,0.039,own_car,TTS,2.0,0,Tamil
+73,Brittney Phillips,58,75002,33.0842,-96.6368,DaVita Allen Dialysis,1.0,0.016,own_car,TTS,6.1,0,English
+74,Lauren Daniels,66,75220,32.8731,-96.8538,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,4.4,0.12,own_car,MWF,0.6,1,Spanish
+75,Amy Silva,56,75204,32.8052,-96.7796,SWISS AVENUE DIALYSIS CENTER,0.4,0.073,bus,TTS,1.6,0,English
+76,Sarah Moore,83,75206,32.8379,-96.7459,WALNUT HILL DIALYSIS CENTER,3.4,0.06,bus,TTS,0.9,1,Vietnamese
+77,Angela Lopez,79,75214,32.8205,-96.7519,USRC PREMIER GASTON,2.7,0.065,medical_van,MWF,3.2,1,Vietnamese
+78,Megan Young,84,75020,33.7466,-96.5696,DaVita Denison Dialysis Center,1.5,0.048,bus,TTS,1.9,0,Spanish
+79,Steve Sanchez,60,75068,33.1831,-96.9423,DaVita Renal Center of Frisco,7.8,0.027,own_car,TTS,1.0,1,English
+80,Lisa Barnes,77,75028,33.0352,-97.0791,DaVita Renal Center of Flower Mound,0.4,0.014,family,MWF,2.4,1,English
+81,Kelly Donovan,51,75229,32.9004,-96.8577,Parkland Peritoneal Dialysis Clinic,3.3,0.024,family,MWF,1.7,1,Spanish
+82,Mike Allen,57,75150,32.8088,-96.6176,USRC Premier Mesquite,1.2,0.067,own_car,TTS,1.6,1,Spanish
+83,Michael Evans,75,75065,33.1183,-97.0397,Renal Center of Lewisville,6.6,0.019,own_car,MWF,3.5,1,English
+84,Paul Jones,34,75019,32.9635,-96.993,Liberty Dialysis of South Lewisville,5.1,0.02,own_car,MWF,0.5,1,English
+85,Zachary Ferrell,72,75062,32.8359,-96.99,DaVita UT Southwestern-Dallas Dialysis,1.6,0.049,family,MWF,3.9,1,English
+86,Daniel Baker,30,75063,32.9296,-96.9677,FARMERS BRANCH DIALYSIS CENTER,5.6,0.048,own_car,TTS,6.3,0,Spanish
+87,Shirley Suarez,64,75206,32.8263,-96.7648,SWISS AVENUE DIALYSIS CENTER,2.5,0.06,family,MWF,2.6,1,Spanish
+88,Christopher Bass,58,75154,32.5186,-96.8019,DaVita Lancaster Dialysis,6.9,0.031,own_car,TTS,3.8,1,English
+89,Lisa Archer,58,75232,32.6695,-96.8356,REDBIRD DIALYSIS CENTER,3.2,0.096,own_car,TTS,2.7,1,English
+90,Aimee Montoya,59,75088,32.9076,-96.5613,FRESENIUS MEDICAL CARE ROWLETT,1.1,0.016,own_car,TTS,1.8,0,English
+91,Matthew Mcmillan,59,75028,33.045,-97.0976,DaVita Renal Center of Flower Mound,1.8,0.014,bus,TTS,4.0,0,English
+92,Brian Rodriguez,54,75204,32.8028,-96.7846,SWISS AVENUE DIALYSIS CENTER,0.1,0.073,own_car,MWF,2.3,0,English
+93,Denise Jacobs,57,75212,32.7787,-96.8761,FMC OF FOREST PARK,0.5,0.141,family,MWF,2.8,0,Spanish
+94,Christina Walters,64,75119,32.3313,-96.6178,FRESENIUS MEDICAL CARE ENNIS,0.4,0.03,own_car,MWF,3.6,0,English
+95,John Whitehead,75,75214,32.8079,-96.7428,USRC PREMIER GASTON,2.3,0.065,family,TTS,0.9,0,English
+96,Anna Henderson,63,75092,33.6227,-96.617,DaVita Sherman Dialysis Center,1.3,0.033,own_car,TTS,0.4,0,English
+97,Aaron Wise,68,75103,32.5011,-95.8971,USRC CANTON DIALYSIS,1.3,0.018,own_car,MWF,9.3,0,English
+98,Deborah Figueroa,80,75077,33.0675,-97.0681,DaVita Renal Center of Flower Mound,2.7,0.041,family,TTS,3.8,0,English
+99,Jessica Smith,89,75006,32.9697,-96.8772,DaVita Carrollton Dialysis,0.5,0.031,own_car,TTS,3.4,1,English
+100,Stephen Mckee,36,75025,33.0693,-96.7361,DaVita West Plano Dialysis,3.7,0.022,medical_van,MWF,1.7,0,English
+101,Sandra Aguilar,72,75007,32.9995,-96.8838,DaVita Renal Center of Carrollton,0.4,0.05,bus,MWF,3.9,0,Spanish
+102,Cameron Parker,43,75154,32.5315,-96.8051,DaVita Lancaster Dialysis,5.9,0.031,family,MWF,1.7,0,English
+103,Rebecca Valencia,41,75062,32.8443,-96.9658,DaVita UT Southwestern-Dallas Dialysis,0.7,0.049,bus,MWF,4.4,0,English
+104,Christine Wright,77,75094,33.0222,-96.6228,FKC Collin County,4.2,0.022,own_car,MWF,4.0,0,English
+105,Richard Henson,34,75236,32.6807,-96.9125,REDBIRD DIALYSIS CENTER,3.3,0.141,bus,TTS,3.6,1,Spanish
+106,Marc Moore,80,75051,32.7094,-97.0096,GRAND PRAIRIE DIALYSIS CENTER INC,0.3,0.06,medical_van,TTS,4.2,1,English
+107,Sharon Cherry,76,75074,33.0182,-96.6789,FKC Collin County,0.9,0.037,medical_van,TTS,2.1,0,Spanish
+108,Sierra Johnson,89,75211,32.7285,-96.8974,FRESENIUS MEDICAL CARE OF COCKRELL HILL,0.7,0.08,medical_van,MWF,2.3,1,Vietnamese
+109,Evelyn Galvan,70,75044,32.9606,-96.6853,USRC Richardson,2.3,0.024,family,TTS,4.6,0,Spanish
+110,Sharon Cochran,82,75021,33.6996,-96.5365,DaVita Denison Dialysis Center,4.2,0.031,bus,MWF,3.1,0,English
+111,Richard Rodriguez,37,75057,33.0575,-97.0147,Renal Center of Lewisville,1.2,0.027,family,MWF,7.4,0,Spanish
+112,Shannon Walker,83,75035,33.1401,-96.7757,DaVita West Plano Dialysis,5.9,0.026,bus,TTS,1.0,0,English
+113,Julia Torres,39,75241,32.6663,-96.7842,FRESENIUS MEDICAL CARE KIEST STATION,0.7,0.121,bus,TTS,5.3,1,English
+114,Crystal Johnson,48,75219,32.7987,-96.8067,SWISS AVENUE DIALYSIS CENTER,1.7,0.061,family,MWF,3.8,1,English
+115,Garrett Lin,37,75154,32.5192,-96.8099,DaVita Lancaster Dialysis,7.1,0.031,own_car,MWF,1.9,1,English
+116,Diana May,54,75230,32.8946,-96.7877,WALNUT HILL DIALYSIS CENTER,3.4,0.075,bus,TTS,4.7,0,English
+117,William Herrera,74,75218,32.8486,-96.6863,US Renal Care Premier Dialysis East Dallas Dialysis,0.8,0.03,medical_van,TTS,1.7,1,English
+118,Ashley Waller,46,75040,32.9229,-96.6115,TOWN GATE DIALYSIS CENTER,4.5,0.03,own_car,MWF,3.2,0,English
+119,Victor Baker,79,75233,32.7206,-96.8732,FRESENIUS MEDICAL CARE OF COCKRELL HILL,2.7,0.075,medical_van,TTS,0.8,0,English
+120,Jeffrey Chandler,66,75110,32.0844,-96.4627,FRESENIUS MEDICAL CARE CORSICANA,1.1,0.053,family,TTS,0.1,0,English
+121,Larry Dixon,67,75219,32.803,-96.8133,SWISS AVENUE DIALYSIS CENTER,2.1,0.061,own_car,MWF,2.2,1,Vietnamese
+122,Kenneth Scott,86,75234,32.9263,-96.9022,FARMERS BRANCH DIALYSIS CENTER,0.7,0.038,own_car,TTS,2.2,1,English
+123,April Frost,55,75062,32.8501,-96.9799,DaVita UT Southwestern-Dallas Dialysis,0.5,0.049,own_car,TTS,2.4,0,English
+124,Michelle Harmon,50,75025,33.092,-96.7439,DaVita West Plano Dialysis,3.4,0.022,own_car,TTS,5.6,1,English
+125,Helen Jones,89,75044,32.9606,-96.6743,USRC Richardson,2.5,0.024,own_car,MWF,6.6,1,English
+126,Erin Edwards,63,75077,33.0811,-97.074,DaVita Renal Center of Flower Mound,3.8,0.041,medical_van,MWF,4.2,1,English
+127,Michelle Evans,66,75220,32.8827,-96.8542,Parkland Peritoneal Dialysis Clinic,4.7,0.12,bus,TTS,5.3,0,English
+128,Jason Powell,47,75228,32.8131,-96.6612,VILLAGE II DIALYSIS CENTER,1.7,0.094,bus,TTS,1.7,1,English
+129,Cameron Fisher,42,75002,33.087,-96.6592,DaVita Allen Dialysis,1.2,0.016,own_car,MWF,1.4,1,English
+130,Megan Orr,40,75098,32.9948,-96.5355,DaVita Wylie Dialysis,0.9,0.008,family,TTS,4.8,1,English
+131,Elizabeth Kelley,43,75075,33.0211,-96.7501,DaVita Plano on Custer Dialysis,0.9,0.037,medical_van,TTS,1.2,0,English
+132,Dustin Jordan,41,75044,32.9384,-96.6607,FRESENIUS MEDICAL CARE NORTH GARLAND,2.2,0.024,own_car,MWF,1.1,1,English
+133,Mary Marshall,74,75028,33.0447,-97.0758,DaVita Renal Center of Flower Mound,0.6,0.014,own_car,TTS,17.5,0,English
+134,Daniel Kennedy,33,75067,33.0176,-97.0108,Liberty Dialysis of South Lewisville,1.4,0.038,medical_van,MWF,3.5,1,English
+135,Rebecca Jackson,67,75243,32.8956,-96.7192,USRC Royal Central Dialysis,1.5,0.111,medical_van,MWF,2.2,0,English
+136,Jose Schultz,86,75063,32.9145,-96.9659,Universal Dialysis Center,4.8,0.048,own_car,MWF,2.0,0,English
+137,Robert Potter,75,75098,33.0072,-96.5447,DaVita Wylie Dialysis,0.5,0.008,medical_van,MWF,0.8,0,English
+138,Courtney Gonzalez,54,75203,32.7544,-96.8177,DaVita Lake Cliff Dialysis Center,1.1,0.172,bus,TTS,4.1,0,English
+139,David Alvarez,33,75069,33.2176,-96.6218,FMC DIALYSIS SERVICES OF MCKINNEY,1.9,0.072,medical_van,MWF,2.6,0,English
+140,Angel Perry,80,75252,33.0259,-96.7878,FMC OF WEST PLANO,0.4,0.073,own_car,TTS,6.5,0,Vietnamese
+141,Cheyenne Horton,30,75248,32.9723,-96.7961,DaVita Dallas Home Training (PD),3.2,0.049,family,MWF,4.9,0,English
+142,David Douglas Jr.,70,75051,32.7016,-97.0036,GRAND PRAIRIE DIALYSIS CENTER INC,0.9,0.06,bus,TTS,2.5,0,English
+143,Patricia Rodriguez,70,75093,33.0086,-96.7853,FMC OF WEST PLANO,1.9,0.044,medical_van,MWF,0.4,1,English
+144,Christopher Rubio,41,75061,32.8294,-96.9501,FRESENIUS MEDICAL CARE IRVING,1.0,0.071,bus,TTS,3.5,1,Vietnamese
+145,Amber Wright,74,75056,33.0859,-96.887,DaVita Renal Center of Carrollton,7.4,0.021,own_car,TTS,3.2,1,English
+146,Joyce Solis,40,75007,32.9991,-96.8968,DaVita Renal Center of Carrollton,1.2,0.05,family,TTS,0.3,0,English
+147,Victoria Larson,43,75149,32.7617,-96.5975,METRO EAST DIALYSIS CENTER,1.0,0.039,family,MWF,4.5,0,Vietnamese
+148,Stephanie Salazar,78,75093,33.0285,-96.7922,FMC OF WEST PLANO,0.3,0.044,own_car,MWF,1.2,1,English
+149,Kathy Rivas,88,75010,33.0411,-96.8666,DaVita Renal Center of Carrollton,3.6,0.022,family,MWF,6.7,0,Vietnamese
+150,Stephanie Manning,45,75056,33.0956,-96.8798,DaVita West Plano Dialysis,7.4,0.021,family,MWF,3.1,0,English
+151,David Wright,85,75236,32.6884,-96.919,FRESENIUS MEDICAL CARE OF COCKRELL HILL,4.0,0.141,own_car,MWF,2.0,1,English
+152,Pamela Boyd,84,75050,32.7545,-97.0077,USRC Grand Prairie,1.0,0.063,own_car,TTS,3.9,1,English
+153,Denise Jones,76,75034,33.1332,-96.8046,DaVita West Plano Dialysis,5.4,0.055,medical_van,MWF,3.7,0,English
+154,Devon Flores,38,75092,33.6323,-96.5976,Texoma Dialysis Center,1.2,0.033,own_car,MWF,3.6,1,Vietnamese
+155,Brenda Hall,47,75287,33.0,-96.8307,DaVita Renal Center of Carrollton,3.9,0.068,own_car,MWF,6.1,0,English
+156,Michelle Brown,70,75050,32.7826,-97.0096,USRC Grand Prairie,1.6,0.063,bus,TTS,4.0,1,Vietnamese
+157,Joshua Perry,89,75169,32.7296,-95.9971,USRC CANTON DIALYSIS,20.6,0.034,own_car,TTS,1.8,0,English
+158,Jason Stein,78,75212,32.7927,-96.8799,FMC OF FOREST PARK,1.1,0.141,family,TTS,2.7,0,English
+159,Melissa Gates,55,75050,32.7599,-97.0079,USRC Grand Prairie,0.5,0.063,family,MWF,8.4,1,Vietnamese
+160,Jamie Smith,44,75206,32.8192,-96.7695,SWISS AVENUE DIALYSIS CENTER,1.8,0.06,family,MWF,1.7,0,English
+161,Paul Castaneda,87,75069,33.1879,-96.6122,FMC DIALYSIS SERVICES OF MCKINNEY,0.9,0.072,medical_van,TTS,4.4,1,Tamil
+162,Jennifer Adkins,46,75154,32.5112,-96.8154,DaVita Lancaster Dialysis,7.9,0.031,own_car,TTS,6.3,0,English
+163,Lindsey Walker,50,75154,32.5398,-96.823,DaVita Lancaster Dialysis,6.0,0.031,own_car,MWF,4.8,1,Spanish
+164,Jeffrey Johnson,87,75110,32.0786,-96.4969,FRESENIUS MEDICAL CARE CORSICANA,1.7,0.053,family,MWF,3.5,1,English
+165,Michael Powell,63,75023,33.0634,-96.7477,DaVita West Plano Dialysis,3.0,0.031,own_car,MWF,3.9,0,English
+166,John Anderson,45,75225,32.8538,-96.7964,WALNUT HILL DIALYSIS CENTER,4.0,0.034,bus,TTS,5.0,1,Spanish
+167,Alyssa Long,30,75062,32.8572,-96.9769,DaVita UT Southwestern-Dallas Dialysis,0.9,0.049,family,MWF,1.7,0,English
+168,Alyssa Day,55,75040,32.9265,-96.6054,FRESENIUS MEDICAL CARE ROWLETT,4.9,0.03,own_car,TTS,3.3,0,English
+169,Joel Williams,89,75009,33.3087,-96.7562,DaVita Prosper Dialysis,7.1,0.006,bus,TTS,12.9,0,English
+170,Daniel Murphy,55,75142,32.5456,-96.2948,FRESENIUS MEDICAL CARE KAUFMAN,0.7,0.048,medical_van,TTS,4.5,1,Tamil
+171,Jamie Walton,71,75180,32.7222,-96.6193,DaVita Balch Springs Dialysis,0.6,0.06,bus,TTS,3.6,1,English
+172,Darlene Miller,45,75002,33.0979,-96.6495,DaVita Allen Dialysis,0.5,0.016,bus,MWF,2.4,1,Spanish
+173,Joshua Cooke,76,75098,32.9996,-96.5422,DaVita Wylie Dialysis,0.5,0.008,family,TTS,1.7,1,Vietnamese
+174,Matthew Harrington,76,75044,32.9399,-96.6635,FRESENIUS MEDICAL CARE NORTH GARLAND,2.2,0.024,own_car,MWF,4.0,1,English
+175,Nicole Herring,66,75158,32.469,-96.3863,FRESENIUS MEDICAL CARE KAUFMAN,10.3,0.007,own_car,MWF,4.2,0,English
+176,Alex Hernandez,76,75038,32.867,-96.9939,Universal Dialysis Center,0.3,0.055,own_car,MWF,3.1,1,Spanish
+177,Michael Elliott,64,75189,32.9786,-96.3542,DaVita Rockwall Dialysis Center,7.1,0.017,own_car,MWF,16.3,1,English
+178,Michael Wang,52,75071,33.1992,-96.6267,FMC DIALYSIS SERVICES OF MCKINNEY,0.9,0.028,family,MWF,1.8,0,English
+179,Lawrence Adkins,74,75243,32.9091,-96.7284,USRC Royal Central Dialysis,0.1,0.111,family,MWF,1.4,1,Spanish
+180,Robert Oconnell,80,75033,33.2588,-96.8593,DaVita Renal Center of Frisco,2.0,0.025,bus,MWF,2.5,0,English
+181,Alexander Collins,80,75067,33.0329,-96.9903,Liberty Dialysis of South Lewisville,1.2,0.038,medical_van,MWF,3.2,0,English
+182,Tina Sanders,42,75025,33.0806,-96.7148,DIALYSIS SERVICES OF ALLEN,4.4,0.022,family,MWF,1.6,0,Spanish
+183,Angela Vaughn,70,75240,32.9333,-96.7863,DaVita Dallas Home Training (PD),0.4,0.134,bus,MWF,3.9,0,English
+184,Ashley Barton,30,75231,32.8867,-96.7437,WALNUT HILL DIALYSIS CENTER,1.1,0.129,family,TTS,4.3,0,English
+185,Lindsay Martinez,64,75052,32.6648,-97.0317,USRC Premier West Grand Prairie,0.4,0.033,own_car,MWF,5.4,1,English
+186,Dr. Hannah Patterson,64,75165,32.3962,-96.8391,FMC DIALYSIS SERVICES WAXAHACHIE,1.4,0.041,bus,MWF,2.2,1,Tamil
+187,Jonathan Peterson,51,75220,32.8699,-96.87,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,4.7,0.12,bus,MWF,7.9,0,Spanish
+188,Samantha Garcia,89,75116,32.6465,-96.9071,USRC Premier Duncanville,1.1,0.035,family,MWF,5.2,0,English
+189,Madison Poole,82,75104,32.5748,-96.9523,DaVita Cedar Hill Dialysis,1.4,0.026,family,TTS,1.8,0,English
+190,Jessica Gross,32,75050,32.7814,-97.0045,USRC Grand Prairie,1.6,0.063,family,TTS,1.6,0,English
+191,Debra Morton,42,75023,33.0722,-96.7256,DaVita Plano on Custer Dialysis,4.4,0.031,own_car,TTS,2.6,1,English
+192,Karen Graham,42,75234,32.9227,-96.8901,FARMERS BRANCH DIALYSIS CENTER,0.3,0.038,own_car,TTS,4.3,0,English
+193,Debra Christian,83,75234,32.9207,-96.8967,FARMERS BRANCH DIALYSIS CENTER,0.4,0.038,own_car,MWF,4.7,1,Vietnamese
+194,Angelica Keith,61,75154,32.5331,-96.8026,DaVita Lancaster Dialysis,5.7,0.031,family,TTS,5.1,1,English
+195,John Bishop,73,75067,33.0087,-96.9956,Liberty Dialysis of South Lewisville,1.0,0.038,family,MWF,12.4,1,Spanish
+196,Allen Rosales,78,75068,33.1679,-96.9489,DaVita Renal Center of Frisco,9.2,0.027,medical_van,TTS,0.6,1,English
+197,Daniel Salinas,76,75206,32.8374,-96.7875,SWISS AVENUE DIALYSIS CENTER,3.0,0.06,own_car,MWF,3.0,0,English
+198,Spencer Haynes,35,75234,32.9206,-96.8972,FARMERS BRANCH DIALYSIS CENTER,0.4,0.038,family,TTS,11.7,1,English
+199,Adam Vaughan,38,75232,32.6646,-96.8583,REDBIRD DIALYSIS CENTER,1.5,0.096,own_car,MWF,5.6,1,English
+200,Nathan Freeman,53,75216,32.707,-96.8105,FMC SOUTH DALLAS COUNTY,2.2,0.174,bus,TTS,1.4,1,Spanish
+201,Melissa Brewer,50,75156,32.3006,-96.1048,USRC CANTON DIALYSIS,24.5,0.055,medical_van,MWF,3.8,1,Vietnamese
+202,Ricky Davis II,74,75023,33.0691,-96.7275,DaVita Plano on Custer Dialysis,4.1,0.031,own_car,TTS,2.9,1,Tamil
+203,Elizabeth Perkins,39,75035,33.1386,-96.7596,DaVita West Plano Dialysis,6.0,0.026,medical_van,TTS,2.8,1,English
+204,Joseph Coleman,52,75234,32.9309,-96.9088,FARMERS BRANCH DIALYSIS CENTER,1.3,0.038,own_car,TTS,2.1,0,Spanish
+205,Erin Warner,44,75149,32.7473,-96.6378,DaVita Balch Springs Dialysis,2.0,0.039,family,MWF,3.6,1,English
+206,David Martinez,41,75002,33.0929,-96.6508,DaVita Allen Dialysis,0.4,0.016,family,MWF,7.0,1,Tamil
+207,Bryan Herrera,40,75024,33.0668,-96.7601,DaVita West Plano Dialysis,2.0,0.052,own_car,TTS,2.3,0,English
+208,Cathy Robinson,41,75165,32.3686,-96.8331,FMC DIALYSIS SERVICES WAXAHACHIE,1.1,0.041,own_car,MWF,5.2,1,English
+209,Dr. William Warren,63,75001,32.9512,-96.8441,Parkland Peritoneal Dialysis Clinic,1.8,0.028,own_car,MWF,5.8,0,English
+210,Brian Lee,54,75035,33.1344,-96.7477,DIALYSIS SERVICES OF ALLEN,5.5,0.026,own_car,MWF,7.9,1,English
+211,Christopher Smith,56,75115,32.6133,-96.8809,FMC OF PLEASANT RUN DIALYSIS,1.4,0.034,family,MWF,1.6,0,English
+212,Denise Mccann,58,75189,32.9495,-96.3678,DaVita Rockwall Dialysis Center,5.6,0.017,own_car,MWF,3.4,0,Tamil
+213,Melissa Martinez,74,75160,32.7518,-96.2821,FMC DIALYSIS SERVICES TERRELL,0.1,0.066,own_car,MWF,1.9,1,Spanish
+214,Katherine Salas,81,75044,32.9474,-96.6663,FRESENIUS MEDICAL CARE NORTH GARLAND,2.7,0.024,family,TTS,3.6,0,Vietnamese
+215,Julie Alexander,61,75204,32.8005,-96.7772,SWISS AVENUE DIALYSIS CENTER,0.7,0.073,family,TTS,3.6,0,English
+216,Anthony Everett,68,75050,32.7749,-97.0078,USRC Grand Prairie,0.9,0.063,bus,MWF,1.2,0,English
+217,Rodney Morales,74,75063,32.9301,-96.9531,FARMERS BRANCH DIALYSIS CENTER,4.5,0.048,own_car,MWF,3.7,0,English
+218,Mark Brown,71,75211,32.7453,-96.9126,FRESENIUS MEDICAL CARE OF COCKRELL HILL,1.3,0.08,own_car,MWF,12.8,1,English
+219,Justin Torres,38,75160,32.75,-96.2741,FMC DIALYSIS SERVICES TERRELL,0.7,0.066,family,TTS,4.7,1,English
+220,Bailey Duran DDS,88,75228,32.818,-96.6621,VILLAGE II DIALYSIS CENTER,1.4,0.094,bus,MWF,1.0,0,English
+221,Courtney Mills,39,75165,32.3786,-96.8471,FMC DIALYSIS SERVICES WAXAHACHIE,0.8,0.041,own_car,TTS,1.5,1,English
+222,Jeremy Dalton,54,75126,32.7515,-96.4687,USRC Sunnyvale Dialysis,8.1,0.021,family,TTS,3.2,0,English
+223,Elizabeth Oliver DDS,69,75024,33.077,-96.7709,DaVita West Plano Dialysis,1.0,0.052,own_car,TTS,1.5,1,English
+224,Theresa Clark,54,75069,33.1868,-96.6172,FMC DIALYSIS SERVICES OF MCKINNEY,1.0,0.072,medical_van,MWF,7.6,0,Spanish
+225,Matthew Moore,44,75052,32.6614,-97.0171,USRC Premier West Grand Prairie,1.1,0.033,own_car,TTS,0.9,0,English
+226,Benjamin Smith,85,75050,32.7672,-97.0156,USRC Grand Prairie,0.4,0.063,bus,TTS,4.8,0,Vietnamese
+227,Kirk Carter,34,75252,33.022,-96.7775,FMC OF WEST PLANO,1.1,0.073,family,TTS,0.7,1,English
+228,Michael Warner,44,75071,33.2164,-96.614,FMC DIALYSIS SERVICES OF MCKINNEY,1.7,0.028,family,TTS,3.2,0,Spanish
+229,Michael Bradshaw,89,75232,32.6562,-96.8358,REDBIRD DIALYSIS CENTER,3.1,0.096,family,TTS,1.3,0,Spanish
+230,Lori Guerrero,73,75152,32.4358,-96.6638,FRESENIUS MEDICAL CARE ENNIS,9.8,0.019,medical_van,MWF,5.4,1,Spanish
+231,Jessica Stephens,35,75217,32.7098,-96.6791,DaVita Balch Springs Dialysis,4.6,0.083,bus,TTS,6.8,1,Spanish
+232,Susan Serrano,75,75093,33.024,-96.7983,FMC OF WEST PLANO,0.9,0.044,own_car,TTS,4.3,0,Tamil
+233,Christopher Parker,88,75126,32.7523,-96.4643,USRC Sunnyvale Dialysis,8.4,0.021,own_car,MWF,7.0,1,English
+234,Laura Roberts,35,75092,33.6493,-96.6139,Texoma Dialysis Center,0.7,0.033,family,MWF,0.2,1,English
+235,Michael Lyons,54,75040,32.9154,-96.6405,FRESENIUS MEDICAL CARE NORTH GARLAND,2.8,0.03,own_car,TTS,3.7,0,English
+236,Kathryn Snyder,58,75206,32.8245,-96.7628,SWISS AVENUE DIALYSIS CENTER,2.5,0.06,own_car,MWF,4.7,1,English
+237,Andrew Reynolds,37,75056,33.0725,-96.889,DaVita Renal Center of Carrollton,6.2,0.021,own_car,MWF,5.2,0,English
+238,David Davis,42,75006,32.9641,-96.871,DaVita Carrollton Dialysis,0.9,0.031,own_car,TTS,4.5,1,English
+239,Sara Johnston,40,75158,32.4712,-96.4164,FRESENIUS MEDICAL CARE KAUFMAN,12.0,0.007,own_car,TTS,5.2,0,English
+240,Yvonne Chambers,41,75038,32.86,-96.9984,Universal Dialysis Center,0.8,0.055,bus,TTS,3.7,1,English
+241,Andrew Avila,54,75243,32.9015,-96.7454,USRC Royal Central Dialysis,1.5,0.111,own_car,MWF,1.0,0,English
+242,Matthew Moon,57,75248,32.9673,-96.8025,DaVita Dallas Home Training (PD),2.9,0.049,own_car,MWF,2.1,0,English
+243,Kevin Walters,44,75237,32.6414,-96.874,REDBIRD DIALYSIS CENTER,1.6,0.201,medical_van,TTS,7.6,1,Spanish
+244,Brandon Bailey MD,47,75070,33.1829,-96.6171,FMC DIALYSIS SERVICES OF MCKINNEY,1.3,0.016,family,TTS,7.1,0,Spanish
+245,Shannon Rivera,41,75002,33.1147,-96.6479,DaVita Allen Dialysis,1.9,0.016,bus,MWF,4.7,1,English
+246,Donna Landry,77,75240,32.9245,-96.7888,DaVita Dallas Home Training (PD),1.2,0.134,family,MWF,5.5,1,English
+247,Krista Gibson,42,75077,33.0665,-97.0684,DaVita Renal Center of Flower Mound,2.6,0.041,medical_van,MWF,6.5,1,English
+248,Frank Cordova,84,75251,32.9373,-96.7852,DaVita Dallas Home Training (PD),0.2,0.129,own_car,TTS,4.6,0,English
+249,Jose Travis,62,75249,32.6651,-96.9422,USRC Premier Duncanville,3.6,0.012,own_car,MWF,7.5,1,Spanish
+250,Kimberly Gutierrez,78,75228,32.8133,-96.6718,VILLAGE II DIALYSIS CENTER,1.2,0.094,own_car,TTS,7.3,0,English
+251,Isaiah Avila,68,75060,32.7986,-96.9558,FRESENIUS MEDICAL CARE IRVING,2.6,0.04,own_car,MWF,15.4,0,Vietnamese
+252,Olivia Harris,45,75071,33.201,-96.6097,FMC DIALYSIS SERVICES OF MCKINNEY,0.5,0.028,own_car,TTS,2.2,1,English
+253,Tanya Kim,66,75228,32.8423,-96.6754,VILLAGE II DIALYSIS CENTER,1.6,0.094,bus,MWF,2.2,1,Spanish
+254,Barbara Dudley,46,75062,32.838,-96.9536,FRESENIUS MEDICAL CARE IRVING,1.3,0.049,own_car,TTS,4.4,0,English
+255,Cynthia Moore,37,75036,33.1474,-96.825,DaVita West Plano Dialysis,7.2,0.003,own_car,TTS,11.2,0,English
+256,Kristen Davis,45,75116,32.6665,-96.9145,USRC Premier Duncanville,2.9,0.035,own_car,MWF,7.9,1,Spanish
+257,Susan Murray MD,46,75243,32.9146,-96.736,USRC Royal Central Dialysis,0.7,0.111,own_car,MWF,6.0,1,English
+258,Kathleen Moran,38,75201,32.7866,-96.8147,SWISS AVENUE DIALYSIS CENTER,2.7,0.085,own_car,TTS,8.3,0,Spanish
+259,Denise Davenport,31,75126,32.7478,-96.4722,USRC Sunnyvale Dialysis,8.1,0.021,own_car,TTS,4.8,1,English
+260,Mrs. Kristen Reyes,86,75024,33.0615,-96.7932,DaVita West Plano Dialysis,1.4,0.052,bus,TTS,2.6,0,English
+261,Katie Suarez,60,75149,32.7654,-96.6089,METRO EAST DIALYSIS CENTER,0.2,0.039,own_car,TTS,13.1,0,English
+262,Desiree Tyler,54,75287,32.9978,-96.8281,DaVita Renal Center of Carrollton,4.1,0.068,bus,TTS,4.5,1,Spanish
+263,Timothy Romero,85,75034,33.1522,-96.8236,DaVita West Plano Dialysis,7.5,0.055,family,TTS,7.2,1,English
+264,Diane Evans,43,75098,32.9985,-96.5471,DaVita Wylie Dialysis,0.8,0.008,bus,MWF,0.2,0,Tamil
+265,Yvonne Burns,54,75231,32.8803,-96.7405,WALNUT HILL DIALYSIS CENTER,0.8,0.129,own_car,TTS,0.3,0,Spanish
+266,Joshua Reed,80,75209,32.8557,-96.8186,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,3.1,0.042,own_car,MWF,3.8,0,Spanish
+267,Kimberly Gibson,67,75201,32.792,-96.806,SWISS AVENUE DIALYSIS CENTER,1.9,0.085,family,MWF,1.5,1,English
+268,Colin Terry,53,75203,32.7495,-96.8135,DaVita Lake Cliff Dialysis Center,0.6,0.172,family,MWF,4.1,0,Spanish
+269,Cynthia Rowe,45,75068,33.1773,-96.9528,DaVita Renal Center of Frisco,8.7,0.027,family,MWF,2.2,0,Vietnamese
+270,Patrick Thornton,32,75060,32.8023,-96.9578,FRESENIUS MEDICAL CARE IRVING,2.2,0.04,own_car,MWF,16.8,1,English
+271,Jasmin Alvarado,35,75219,32.806,-96.8287,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,1.9,0.061,own_car,TTS,6.8,0,English
+272,Veronica Simpson,39,75219,32.8164,-96.8149,CHILDRENS MEDICAL CENTER DIALYSIS UNIT,2.0,0.061,bus,MWF,8.8,1,English
+273,Jonathan Lawrence,77,75229,32.8948,-96.8562,Parkland Peritoneal Dialysis Clinic,3.7,0.024,medical_van,MWF,0.3,0,English
+274,Shelly Alexander,68,75237,32.6799,-96.8855,REDBIRD DIALYSIS CENTER,2.0,0.201,bus,MWF,5.9,1,Spanish
+275,Joyce Bowen,56,75098,33.0198,-96.5375,DaVita Wylie Dialysis,1.4,0.008,own_car,TTS,2.9,0,English
+276,Matthew Moore,76,75093,33.0338,-96.8034,FMC OF WEST PLANO,1.1,0.044,own_car,TTS,8.9,0,English
+277,Wayne Morgan,39,75217,32.7168,-96.6621,DaVita Balch Springs Dialysis,3.2,0.083,medical_van,TTS,5.3,0,English
+278,Marie Christian,42,75160,32.7404,-96.2706,FMC DIALYSIS SERVICES TERRELL,1.4,0.066,family,MWF,3.2,1,English
+279,Shannon James,53,75203,32.7579,-96.8095,DaVita Lake Cliff Dialysis Center,1.1,0.172,medical_van,TTS,1.1,1,English
+280,Nathan Malone,85,75217,32.727,-96.6719,DaVita Balch Springs Dialysis,3.7,0.083,family,TTS,3.7,0,Tamil
+281,Amanda Jones,66,75232,32.6695,-96.8625,REDBIRD DIALYSIS CENTER,1.4,0.096,own_car,MWF,7.5,0,English
+282,Tammie Bright,81,75067,33.0024,-97.0041,Liberty Dialysis of South Lewisville,1.8,0.038,own_car,TTS,9.3,1,English
+283,Jessica Garcia,44,75070,33.2069,-96.6182,FMC DIALYSIS SERVICES OF MCKINNEY,0.9,0.016,medical_van,MWF,2.5,0,Spanish
+284,Shelia Wallace,80,75024,33.0797,-96.795,DaVita West Plano Dialysis,0.9,0.052,bus,TTS,15.1,0,English
+285,Stephanie Williams,34,75126,32.738,-96.4527,USRC Sunnyvale Dialysis,9.8,0.021,own_car,TTS,7.1,1,English
+286,Elaine Brooks,43,75007,32.9986,-96.862,DaVita Renal Center of Carrollton,1.6,0.05,own_car,MWF,1.5,0,English
+287,Joseph Knight,61,75087,32.9518,-96.4536,DaVita Rockwall Dialysis Center,0.9,0.014,own_car,TTS,1.2,0,Vietnamese
+288,Carolyn Miller,33,75114,32.6284,-96.4642,DaVita Balch Springs Dialysis,15.0,0.004,own_car,MWF,3.0,0,Spanish
+289,Lisa Allen,81,75056,33.0911,-96.8812,DaVita West Plano Dialysis,7.4,0.021,own_car,MWF,2.5,0,English
+290,Briana Murray,82,75141,32.6386,-96.6909,FRESENIUS MEDICAL CARE KIEST STATION,7.2,0.056,family,TTS,4.8,0,English
+291,David Smith,62,75007,33.0008,-96.8942,DaVita Renal Center of Carrollton,0.9,0.05,own_car,TTS,3.4,1,English
+292,Stephanie Byrd,48,75007,33.0048,-96.8795,DaVita Renal Center of Carrollton,0.2,0.05,bus,TTS,2.7,1,English
+293,Jeremy Reed,35,75223,32.8089,-96.7293,USRC PREMIER GASTON,3.3,0.077,medical_van,TTS,0.7,0,English
+294,Margaret Coleman,67,75068,33.1511,-96.9748,Renal Center of Lewisville,9.0,0.027,own_car,MWF,5.4,1,Tamil
+295,Ryan Gonzalez,62,75032,32.8836,-96.4223,USRC Premier Rockwall Dialysis,1.0,0.023,own_car,TTS,0.7,0,Spanish
+296,John Young,75,75103,32.5161,-95.9089,USRC CANTON DIALYSIS,0.4,0.018,bus,TTS,7.2,1,English
+297,Laura Haney,66,75214,32.8278,-96.755,SWISS AVENUE DIALYSIS CENTER,3.1,0.065,own_car,TTS,0.4,0,Spanish
+298,William Barrett,37,75043,32.8528,-96.5918,TOWN GATE DIALYSIS CENTER,4.4,0.067,family,TTS,0.6,1,Vietnamese
+299,Keith Jennings,37,75150,32.7978,-96.6283,USRC Premier Mesquite,1.6,0.067,own_car,TTS,1.5,0,English
+300,Amber Obrien,76,75023,33.0583,-96.7542,DaVita West Plano Dialysis,2.7,0.031,bus,TTS,2.3,0,English
