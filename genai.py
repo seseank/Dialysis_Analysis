@@ -59,8 +59,9 @@ def fallback(r, why):
     ride = " Reply RIDE and we'll arrange transport." if r.transport_type in ("bus", "medical_van") or r.storm else ""
     return f"Hi {r.name.split()[0]}, a reminder that your dialysis session at {r.clinic} is tomorrow. We look forward to seeing you!{ride}"
 
-for r in top.itertuples():
-    why = reasons(r)
-    msg = llm(build_prompt(r, why)) or fallback(r, why)
-    print(f"\n{r.name} | risk {r.risk:.0%} | {', '.join(why)}\n  -> {msg}")
+if __name__ == "__main__":
+    for r in top.itertuples():
+        why = reasons(r)
+        msg = llm(build_prompt(r, why)) or fallback(r, why)
+        print(f"\n{r.name} | risk {r.risk:.0%} | {', '.join(why)}\n  -> {msg}")
 
